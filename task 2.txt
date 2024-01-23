@@ -1,0 +1,23 @@
+1.Why do you like to join as a Software developer?
+Ans. As a CSE background Graduate i want to kick start my career as a Software
+Developer.
+2.List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+Ans.
+1.Anaconda = one place to execute any code.
+2.Canva = To design any templates.
+3.Zoom = For Easy Communication with Clients.
+3.List top 3 organisations you like to join in your career & why you like these
+organisations?
+Ans.
+1.Zennode - Because it is a best leading E-commerce Plugin Developers.
+2.TCS - A leading Indian Organization.
+3.Microsoft - Because of Satya Nadella My Inspiration.
+4.How you position yourself in this industry after 2 years?
+Ans. I want to be in a good position based on my performance in this industry.
+5.List 3 projects / products you have built or have planned to build in the
+upcoming year, also explain your role in the same?
+Ans.    Projects
+1.Completed Project on Restaruant Reviews using Natural Language Processing.
+(Solo_Project)
+2.Ongoing Project on social media analysis using machine learning(Team
+member in Group_Project)
